@@ -166,6 +166,7 @@ a {
 .project-info p {
     font-size: 0.95rem;
     color: #ccc;
+    text-align: justify;
 }
 
 .project-link {
